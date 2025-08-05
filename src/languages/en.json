@@ -1,0 +1,516 @@
+{
+  "TabTitles": {
+    "home": "Menu Builder-Create a Free Menu Today | jelofy.com"
+  },
+  "NavTabs": {
+    "service": "Service",
+    "pricing": "Pricing",
+    "q&a": "Q&A",
+    "about": "About-us",
+    "logBtn": "Log In",
+    "managerBtn": "Manager Login",
+    "registerBtn": "Get Started",
+    "login": "Log In",
+    "register": "Get Started"
+  },
+
+  "Content": {
+    "l1": "Start your restaurant’s",
+    "l2": "tech journey today",
+    "l3": "with a free",
+    "l4": "QR code menu!",
+    "btn": "Generate Your Free QR Code Menu Today!",
+    "btnTxt": "Start for free. No credit card required."
+  },
+  "Service": {
+    "l1": "Enhance Customer Engagement with Dynamic Solutions for Your Restaurant",
+    "l2": "Amazing features to help you achieve customer success.",
+    "customize": "Customize Your Menu",
+    "customizeParagraph": "Customize the look of your restaurant's menu to reflect your unique style perfectly. Upload your logo and adjust the colors and fonts to match your brand's personality. With easy-to-use design tools, you can update your menu whenever you like, ensuring it always stays fresh and aligned with your restaurant's theme. Organize your dishes into clear, convenient categories to make it easy for customers to browse and find exactly what they're craving.",
+    "l3": "Bring your meals online with our website builder, packed with tools for success.",
+    "service1": "Grow your business with modern technology—make the dining experience seamless.",
+    "service2": "Scan a QR code to access the menu from any device.",
+    "service3": "Pre-designed templates to streamline your restaurant’s workflow.",
+    "qrCodeL1": "Take a look at how the QR code on our free plan will look!",
+    "qrCodeL2": "Check the Result Here!",
+    "jelofyService1": "Digital QR Menu Builder",
+    "jelofyService1Paragraph": "Effortlessly create and customize your own scannable QR menu — no coding, no developers needed.",
+    "jelofyService2": "Order Management & Payments",
+    "jelofyService2Paragraph": "Accept payments and manage orders in one place — coming soon to your menu!",
+    "jelofyServiceBtn": "Tell me more",
+    "managerLogin": "Manager Login",
+    "language": "Language",
+
+    "l4": "Professional digital menus",
+    "l5": "shouldn't cost a fortune",
+    "l6": "Why pay",
+    "l7": "for limited solutions when",
+    "l8": "$9/month",
+    "l9": "gets you everything?",
+    "l10": "Create, customize, and manage stunning QR-code menus with our intuitive platform — no coding or design skills required. Launch in minutes, update anytime.",
+    "l11": "Start Your Free Trial",
+    "l12": "No credit card required • Cancel anytime",
+
+    "t1": "Thank You to Our First 7 Users!",
+    "t2": "Your support means the world to us. We’re always improving your experience and fixing bugs — so your customers enjoy faster,smoother access to your menu.",
+    "t3": "This is just the beginning. We’ll keep updating this template and launching more to fit your brand and vision.",
+    "t4": "Explore the New Template",
+
+    "i1": "Customizable Menu Design",
+    "i2": "Unleash your creativity with complete control over your menu's appearance. We provide the foundation - you bring you unique brand vision to life with flexible styling options and layout controls.",
+    "i3": "Performance Insights",
+    "i4": "Track your menu's performance with real-time analytics. Monitor customer engagement, popular items, and sales trends to make data-driven decisions for your business.",
+    "i5": "Menu Management",
+    "i6": "Seamlessly update your offerings with our intuitive meal manager. Add seasonal specials, modify existing items, or remove dishes with just a few clicks - no technical skills required.",
+    "i7": "Collaborative Access",
+    "i8": "Empower your team with controlled access. Create manager accounts with customizable permissions, ensuring your menu stays updated even when you're away.",
+    "i9": "Global Reach",
+    "i10": "Expand your customer base with multilingual support. Instantly translate your menu into multiple languages, making your offerings accessible to international guests."
+  },
+  "TaxAlert": {
+    "text": "We’re not like your tax money — nothing here goes to waste.",
+    "textParagraph": "Every bit of income helps us improve the platform for you. Better features, smoother experience — all thanks to your support!"
+  },
+  "PricingPlans": {
+    "title": "Choose the right plan for your business",
+    "subtitle": "Simple, transparent pricing. No hidden fees.",
+    "monthlyPayment": "/mo",
+    "getStated": "Get Started",
+    "currentPlan": "Current Plan",
+    "features": "Features",
+    "choosePlan": "Choose Plan",
+    "starterPlan": {
+      "planName": "starter",
+      "description": "Get started for free! Manage one restaurant with essential features, including a QR code menu, full customization, and responsive design. Ads will be displayed.",
+      "features": {
+        "qrCode": "Access the Menu via QR Code",
+        "restaurantLimit": "1 Restaurant",
+        "customization": "Limited Customization",
+        "mealsLimit": "Can add up to 7 meals",
+        "ads": "Display Ads for Clients",
+        "responsive": "Fully Responsive for Any Device"
+      }
+    },
+    "businessPlan": {
+      "planName": "business",
+      "description": "Monthly subscription with full access to all essential features, including an ad-free experience, multi-language support, and complete customization for one restaurant.",
+      "features": {
+        "qrCode": "Access the Menu via QR Code",
+        "restaurantLimit": "1 Restaurant",
+        "customization": "unlimited customization",
+        "mealsLimit": "unlimited meals can be added",
+        "teamAccessLimit": "Team Access: Up to 3 Employees",
+        "liveView": "Live Menu Viewer",
+        "ads": "No Ads",
+        "responsive": "Fully Responsive for Any Device",
+        "languageSupport": "Multi-Language Support for Restaurant Menus"
+      }
+    },
+    "pro": {
+      "planName": "pro",
+      "description": "Designed for growing businesses! Manage up to 3 restaurants with multi-language support, ad-free experience, and advanced customization. Includes Team Access to allow employees to help manage menus.",
+      "features": {
+        "qrCode": "Access the Menu via QR Code",
+        "restaurantLimit": "3 Restaurant",
+        "customization": "unlimited customization",
+        "mealsLimit": "unlimited meals can be added",
+        "teamAccessLimit": "Team Access: Up to 9 Employees",
+        "liveView": "Live Menu Viewer",
+        "ads": "No Ads",
+        "responsive": "Fully Responsive for Any Device",
+        "languageSupport": "Multi-Language Support for Restaurant Menus"
+      }
+    },
+    "ultimate": {
+      "planName": "ultimate",
+      "description": "Unlimited possibilities! No restaurant limit, complete customization, multi-language support, and an ad-free experience. The best choice for large restaurant chains and franchises.",
+      "features": {
+        "qrCode": "Access the Menu via QR Code",
+        "restaurantLimit": "No Restaurant Limit",
+        "customization": "Fully Customization",
+        "mealsLimit": "unlimited meals can be added",
+        "teamAccessLimit": "Team Access: Unlimited Employees",
+        "liveView": "Live Menu Viewer",
+        "ads": "No Ads",
+        "responsive": "Fully Responsive for Any Device",
+        "languageSupport": "Multi-Language Support for Restaurant Menus"
+      }
+    }
+  },
+  "Q&A": {
+    "title": "Frequently Asked Questions About Our Service",
+
+    "q1": "What is Jelofy, and how can it help my restaurant?",
+    "a1": "Jelofy is a free online menu builder that helps you create and manage digital menus for your restaurant. It simplifies operations with QR-code menus that customers can scan using their smartphones, eliminating the need for physical menus and making updates easy. This improves the customer experience and reduces printing costs.",
+
+    "q2": "How can a QR-code menu help grow my business?",
+    "a2": "A QR-code menu reduces costs by eliminating the need to reprint menus for every change. It’s eco-friendly and provides a modern, seamless dining experience. Real-time updates allow you to stay flexible while offering convenience to tech-savvy customers.",
+
+    "q3": "How can I contact customer support?",
+    "a3": "You can reach our support team by filling out the contact form on our website. If you’re a subscribed user, you’ll also have access to support via email or WhatsApp. We typically respond within 24 hours.",
+
+    "q4": "Will my menu look good on mobile devices?",
+    "a4": "Yes, all menus built with Jelofy are fully responsive and optimized for smartphones, tablets, and desktops, ensuring a clean and user-friendly experience on any device.",
+
+    "q5": "Can I try the platform before paying?",
+    "a5": "Absolutely. Our free Starter plan lets you create and manage one restaurant with essential features. It’s a great way to explore the platform before upgrading to a paid plan.",
+
+    "q6": "Can I customize the design of my menu?",
+    "a6": "Yes! You can upload your logo, choose your colors and fonts, and organize your dishes by category. Jelofy makes it easy to match your menu’s design to your brand.",
+
+    "q7": "Can I create menus in multiple languages?",
+    "a7": "Yes, Jelofy supports multi-language menus. You can manually add translations for your items, making your menu accessible to a broader audience.",
+
+    "q8": "Does Jelofy support multiple restaurant locations?",
+    "a8": "Yes, our Pro and Ultimate plans let you manage multiple restaurants under one account. Each location can have its own custom menu and branding.",
+
+    "q9": "How does the QR-code menu work?",
+    "a9": "Each restaurant gets a unique QR code that customers can scan to view the menu on their devices. It’s a contactless solution that’s easy to update and perfect for modern dining environments.",
+
+    "q10": "What’s the difference between the Starter, Business, Pro, and Ultimate plans?",
+    "a10": "The Starter plan is free and supports one restaurant with basic features. Business removes ads and offers more customization. Pro supports up to 5 restaurants with advanced tools, and Ultimate includes unlimited restaurants, full customization, and multi-language support — ideal for chains or franchises.",
+
+    "q11": "Are there any hidden fees?",
+    "a11": "No. Our pricing is fully transparent. What you see is what you pay — there are no hidden charges.",
+
+    "q12": "Can I see how many people are viewing my menu?",
+    "a12": "Yes, analytics are available for subscribed users, showing real-time and historical views. This helps you understand customer behavior and improve your offerings.",
+
+    "q13": "How do I get support if I have a problem?",
+    "a13": "If you need help, fill out our contact form. Subscribed users can also reach us via email or WhatsApp. We aim to respond to all support requests within 24 hours.",
+
+    "q14": "Can I auto-translate my menu?",
+    "a14": "Currently, translations are added manually by you. We provide tools to manage translations easily, and we’re exploring automatic translation options for the future.",
+
+    "q15": "Is my restaurant data secure?",
+    "a15": "Yes. We take data security seriously and use industry-standard measures to protect your information. Your data is encrypted and stored securely in compliance with relevant privacy regulations."
+  },
+
+  "Contact": {
+    "title": "HAVE SOME QUESTIONS?",
+    "content": "Have questions we haven’t answered yet? Fill out the form, and we’ll get back to you within 24 hours!",
+    "submit": "Send Message",
+    "contactTitle": "Need a quicker way to reach us?",
+    "contactMessage": "Contact one of our customer support team members at jelofyteam@gmail.com, and we'll get back to you as soon as possible!"
+  },
+  "ContactForm": {
+    "email": "Enter your email address",
+    "name": "What is your name",
+    "textArea": "Your question..."
+  },
+  "About": {
+    "title": "Who We Are and What We Do",
+    "p1": "At Jelofy, our goal is to make restaurant management simpler, faster, and more efficient. Instead of spending hundreds of dollars on developers and designers, you can create and customize your own menu design at an affordable price, all while maintaining full control over your branding. We understand that every restaurant is unique, so we offer flexible, user-friendly tools to fit your specific needs. Plus, we’re always improving, regularly adding new features to ensure your business stays ahead with the latest technology, driving growth and customer satisfaction.",
+    "btn": "Join us today and take your restaurant’s menu to the next level!",
+    "aboutFormTitle": "Stay In the Loop!",
+    "aboutFormContent": "Stay Updated and Get Free Coupons!",
+    "aboutFormParagraph": "Subscribe now to receive the latest news, updates, and exclusive event information. As a thank you, you'll get free coupons for upcoming events, so you can save while you stay in the know. Don’t miss out on exciting offers",
+    "aboutFormBtn": "Count Me In!"
+  },
+  "AdminAuth": {
+    "loginView": "Log In",
+    "signUpView": "Sign Up",
+    "loginLink": "Already have an account?",
+    "signUpLink": "Don't have an account?",
+    "loginBtn": "Continue with Email",
+    "signUpBtn": "Sign Up",
+    "googleLogin": "Continue with Google",
+    "LoginGoogleMsg": "Sign in with Google instead",
+    "SignUpGoogleMsg": "Sign up with Google instead",
+    "email": "Email",
+    "emailConfirm": "Confirm Email",
+    "LoginPassword": "Password",
+    "signInPassword": "Choose a Password",
+    "signInPasswordConfirm": "Confirm Password",
+
+    "googleLoginIOSWarning": "Google login doesn't work in this browser",
+    "googleLoginIOSInstructions1": "To use Google login:",
+    "googleLoginIOSInstructions2": "Please open this page in your regular browser",
+    "openInBrowser": "Chrome or Safari or sign in with email instead",
+    "copy": "(Copy)",
+    "copied": "(Copied!)",
+    "googleLoginWarning": "Google login doesn't work here. Please visit:",
+    "googleLoginWarningMsg": "in Chrome or Safari to log in with Google.",
+    "notAvailable": "Not available"
+  },
+  "ManagerAuth": {
+    "title": "Manager Login",
+    "subtitle": "Access your restaurant dashboard",
+    "userName": "Username",
+    "userNamePlaceholder": "Enter your username",
+    "password": "Password",
+    "signin": "Sign In",
+    "loadingSignIn": "Signing in...",
+    "forgotPassword": "Forgot your Password?",
+    "forgotParagraph": "Please contact your restaurant administrator to reset your login credentials."
+  },
+  "DrawerBar": {
+    "home": "Dashboard",
+    "templates": "Templates",
+    "restaurants": "Restaurants",
+    "currency": "Restaurant Currency",
+    "teamAccess": "Managers",
+    "translations": "Translations",
+    "subscriptionPlans": "Subscription Plans",
+    "helpSupport": "Help & Support",
+    "settings": "Settings"
+  },
+  "Greeting": {
+    "greeting_1": "Hey {username}! Ready to manage your menu?",
+    "greetingText": "Let's build your perfect menu."
+  },
+  "DashBoard": {
+    "selectedRestaurant": "Select Restaurant",
+    "activeMeals": "Active Meals",
+    "restaurantViews": "Restaurant Views",
+    "realTimeViewers": "Real-Time Viewers",
+    "premiumFeature": "Premium Feature",
+    "viewCountsLocked": "Unlock real-time viewer analytics",
+    "upgradeNow": "Upgrade Now",
+    "status": "Status",
+    "toggleStatus": "Toggle",
+    "mealManager": "Meal Manager",
+    "mealManagerBtn": "Meal Manager",
+    "editMenuAppearance": "Edit Menu Appearance",
+    "editMenuAppearanceBtn": "Customize Menu Design"
+  },
+  "Templates": {
+    "useTemplate": "Use Template",
+    "liveView": "View Template",
+    "title": "Available Templates"
+  },
+  "Restaurants": {
+    "title": "Restaurant Dashboard",
+    "createRestaurant1": "Create Your First Restaurant",
+    "createRestaurant2": "Create New Restaurant",
+    "businessUrl": "Business URL:",
+    "selectedTemplate": "Selected Template:",
+    "status": "Status:",
+    "qrCode": "QR Code:",
+    "downloadQrCode": "download qr-code",
+    "viewQrCode": "View Menu",
+    "restaurantDetails": "Restaurant Details",
+    "notFound": "No Restaurants Found!"
+  },
+  "Managers": {
+    "title": "Team Access Management",
+    "titleParagraph": "Manage all manager accounts and permissions",
+    "addManager": "Add Manager",
+    "name": "Name",
+    "role": "Role",
+    "desktopTitle": "Manager Accounts",
+    "desktopTitleParagraph": "Manage all manager accounts and their access levels",
+    "edit": "Edit",
+    "remove": "Remove",
+    "addManagerModal": "Add New Manager",
+    "fNameLabel": "First Name",
+    "lNameLabel": "Last Name",
+    "userNameLabel": "username",
+    "passwordLabel": "Password",
+    "formAddBtn": "Add Manager",
+    "cancelBtn": "Cancel",
+    "fNamePlaceHolder": "manager first name",
+    "lNamePlaceHolder": "manager last name",
+    "userNamePlaceHolder": "e.g., Manager ID (123456)",
+    "userNameTip": "Tip: It's recommended to use the manager's ID number for the username.",
+    "passwordPlaceHolder": "manager password"
+  },
+  "Translations": {
+    "title": "Translations Manager",
+    "titleParagraph": "Manage translations for your restaurants and menu items",
+    "selectRestaurant": "Select Restaurant",
+    "selectRestaurantOption": "Select a restaurant to manage translations",
+    "selectMeal": "Select Meal (Optional)",
+    "selectMealOption": "Select a meal to manage translations",
+    "restaurantLanguages": "Restaurant Languages",
+    "addLanguage": "+ Add Language",
+    "cancel": "Cancel",
+    "save": "Save",
+    "languageName": "Language Name",
+    "languageIcon": "Language Icon File or image",
+    "iconFileSize": "File exceeds 100KB limit",
+    "chooseIconFile": "Choose an icon (PNG/SVG, max 100KB)...",
+    "textDirection": "Text Direction",
+    "rtl": "Right to Left (RTL)",
+    "ltr": "Left to Right (LTR)",
+    "addLanguageButton": "Add Language to Restaurant",
+    "editMealTranslation": "Edit Meal Translation",
+    "addMealTranslation": "Add Meal Translation",
+    "mealName": "Meal Name",
+    "default": "Default:",
+    "description": "Description",
+    "category": "Category",
+    "backToMeals": "Back to Meals",
+    "saveTranslation": "Save Translation",
+    "currentTranslations": "Current Translations",
+    "editing": "Editing",
+    "saved": "Saved",
+    "name": "Name:",
+    "descriptionText": "Description:",
+    "categoryText": "Category:",
+    "notTranslationAdded": "No translations added yet for this meal."
+  },
+  "HelpSupport": {
+    "title": "Help & Support",
+    "subtitle": "We're here to help you with any questions or issues.",
+    "contactUs": "Contact Us",
+    "faqs": "FAQs",
+    "contactForm": "Contact Form",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "sendBtn": "Send Message",
+    "otherWays": "Other Ways to Reach Us",
+    "emailSupport": "Email Support",
+    "responseTime": "Typically responds within 24 hours",
+    "questionTitle": "Frequently Asked Questions"
+  },
+
+  "HelpSupportFAQs": {
+    "title": "Frequently Asked Questions",
+    "q1": "How do I change my subscription plan?",
+    "a1": "You can upgrade or downgrade your plan anytime from the Account Settings page.",
+    "q2": "Where can I find my QR code menu?",
+    "a2": "Your QR code menu is available in the Restaurants Dashboard. You can download or view it online.",
+    "q3": "How many team members can I add?",
+    "a3": "The number of team members depends on your plan: Free allows 0, Business allows 3, Pro allows 12, and Ultimate offers unlimited users.",
+    "q4": "How do I customize my menu design?",
+    "a4": "Go to the Dashboard page, click 'Customize Menu Design', and update your logo, text, colors, and more.",
+    "q5": "Where can i cancel my subscription?",
+    "a5": "Go to Settings > Account Settings > Cancel Subscription. This will end your current plan immediately."
+  },
+
+  "Settings": {
+    "title": "Settings",
+    "profileSettings": "Profile Settings",
+    "accountSettings": "Account Settings",
+    "privacySecurity": "Privacy & Security",
+    "updateProfile": "Update Profile Information",
+    "updateProfileInfo": "Change your name, email, and other details",
+    "updateProfileBtn": "Update Profile",
+    "changeLanguage": "Change Language",
+    "selectLanguage": "Select your preferred language",
+    "save": "Save",
+    "paymentMethods": "Payment Methods",
+    "paymentInfo": "Add or update your payment information",
+    "managePaymentMethods": "Manage Payments",
+    "cancelSubscription": "Cancel Subscription",
+    "cancelInfo": "This will end your current plan immediately",
+    "changePass": "Change Password",
+    "changePassInfo": "Create a new secure password",
+    "deleteAccount": "Delete Account",
+    "deleteAccountInfo": "Delete your account and all data"
+  },
+
+  "TermsService": {
+    "title": "Terms of Service",
+    "subTitle": "Effective Date: June 8, 2025",
+
+    "introduction": "1. Introduction",
+    "introductionText": "Jelofy provides a platform for restaurant owners to create, manage, and share digital QR-code menus. By accessing or using our services, you agree to be bound by these terms.",
+
+    "subscriptionPayment": "2. Subscription & Payments",
+    "subscriptionPaymentText1": "Our platform offers subscription-based plans. By subscribing, you agree to be billed on a recurring basis according to your selected plan. Payments are processed securely via",
+    "subscriptionPaymentText2": "our payment provider. Paddle may handle your billing information and transaction details in accordance with their",
+    "subscriptionPaymentText3": "You may cancel your subscription at any time. Features and access will remain active until the end of your billing period.",
+
+    "termsAndPolicies": "terms and policies.",
+    "paddle": "Paddle,",
+
+    "refundPolicy": "3. Refund Policy",
+    "refundPolicyText1": "We offer a",
+    "refundPolicyText2": "for new subscribers if the platform does not meet your expectations. Refund requests must be processed through Paddle and can be submitted to ",
+    "refundPolicyText3": "Refunds will not be issued after 7 days or for subscription renewals. Paddle's refund processing times may apply.",
+
+    "refundText": "7-day refund",
+
+    "privacyPolicy": "4. Privacy Policy",
+    "privacyPolicyText1": "We are committed to protecting your privacy. The information you provide, such as your email, restaurant details, and payment info, will only be used to deliver our services and improve the platform.",
+    "privacyPolicyText2": "We never sell your data. Your data may be shared with trusted third parties like our payment provider (Paddle) strictly for billing, fraud prevention, and compliance purposes.",
+
+    "dataSecurity": "5. Data & Security",
+    "dataSecurityText": "All customer data is stored securely. You are responsible for maintaining the security of your account and password. Paddle complies with PCI-DSS standards for payment processing.",
+
+    "changesToTerms": "6. Changes to Terms",
+    "changesToTermsText": "We reserve the right to modify these terms at any time. Continued use of the service after changes constitutes acceptance of the updated terms.",
+
+    "contactUs": "7. Contact Us",
+    "contactUsText": "If you have questions about these terms, privacy, or refunds, contact us at:"
+  },
+
+  "TemplateUiConfig": {
+    "title": "Template Configuration",
+    "file": "Choose File",
+    "noFile": "No file chosen",
+    "active": "Active",
+    "inactive": "Inactive",
+
+    "general": {
+      "backgroundColor": "Page Background Color"
+    },
+
+    "header": {
+      "backgroundColor": "Header Background Color",
+      "logoText": "Header Logo Text",
+      "logoImage": "Header Logo Image Asset"
+    },
+
+    "contact": {
+      "enableContact": "Enable Contact Section",
+      "enableContactDescription": "Display contact information in the header section",
+      "callMessage": "Call-to-Action Text",
+      "phone": "Contact Phone Number",
+      "iconColor": "Contact Icon Color Scheme"
+    },
+
+    "category": {
+      "enableCategory": "Enable Category Navigation",
+      "enableCategoryDescription": "Display product category navigation menu",
+      "selectedCategoryBackgroundColor": "Active Category Background",
+      "categoryBackgroundColor": "Category Item Background",
+      "selectedCategoryBorderColor": "Active Category Border",
+      "categoryBorderColor": "Category Item Border",
+      "selectedCategoryTextColor": "Active Category Text",
+      "categoryTextColor": "Category Item Text"
+    },
+
+    "mealContainer": {
+      "backgroundColor": "Product Card Background",
+      "mealName": "Product Name Color",
+      "mealDescription": "Product Description Color",
+      "mealSize": "Portion Size Text Color",
+      "mealPrice": "Price Display Color",
+      "mealContainerBorder": "Product Card Border"
+    }
+  },
+
+  "EditorPage": {
+    "description": "Edit your design and see changes in real-time. Remember to save when you're done.",
+    "save": "Save Changes",
+    "saveSuccess": "Changes saved successfully!",
+    "live": "Live",
+    "preview": "Preview",
+    "meal": "Meal",
+    "manager": "Manager",
+    "template": "Template",
+    "store": "Store"
+  },
+
+  "RestaurantCurrency": {
+    "title": "Manage Restaurant Currencies",
+    "subtitle": "Select a restaurant to update its currency settings",
+    "search": "Search for currencies...",
+    "browseCurrency": "Browse currency list",
+    "customCurrency": "Enter custom currency",
+    "applyCurrency": "Apply Currency",
+    "notCurrencyFound": "No currencies found",
+    "tryAgain": "Try a different search term",
+    "noRestaurantFound": "No restaurants found",
+    "getStarter": " You don't have any restaurants yet. Create one to get started."
+  },
+
+  "Footer": {
+    "copyright": "©{year} Jelofy. All rights reserved."
+  }
+}

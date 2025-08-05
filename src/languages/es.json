@@ -1,0 +1,515 @@
+{
+  "TabTitles": {
+    "home": "Creador de Menús - Crea un Menú Gratis Hoy | jelofy.com"
+  },
+  "NavTabs": {
+    "service": "Servicio",
+    "pricing": "Precios",
+    "q&a": "Preguntas Frecuentes",
+    "about": "Sobre Nosotros",
+    "logBtn": "Iniciar Sesión",
+    "managerBtn": "Acceso para Gerentes",
+    "registerBtn": "Empezar",
+    "login": "Iniciar Sesión",
+    "register": "Empezar"
+  },
+  "Content": {
+    "l1": "Comienza el viaje tecnológico",
+    "l2": "de tu restaurante hoy",
+    "l3": "con un menú",
+    "l4": "QR ¡gratis!",
+    "btn": "¡Genera Tu Menú QR Gratis Hoy!",
+    "btnTxt": "Comienza gratis. No se requiere tarjeta de crédito."
+  },
+  "Service": {
+    "l1": "Mejora la Interacción con los Clientes con Soluciones Dinámicas para Tu Restaurante",
+    "l2": "Características increíbles para ayudarte a lograr el éxito con los clientes.",
+    "customize": "Personaliza Tu Menú",
+    "customizeParagraph": "Personaliza el aspecto del menú de tu restaurante para que refleje tu estilo único. Sube tu logo y ajusta los colores y fuentes para que coincidan con la personalidad de tu marca. Con herramientas de diseño fáciles de usar, puedes actualizar tu menú cuando quieras, asegurando que siempre se mantenga fresco y alineado con el tema de tu restaurante. Organiza tus platos en categorías claras y convenientes para que los clientes puedan navegar y encontrar exactamente lo que desean.",
+    "l3": "Lleva tus platos en línea con nuestro creador de sitios web, equipado con herramientas para el éxito.",
+    "service1": "Haz crecer tu negocio con tecnología moderna - haz que la experiencia gastronómica sea perfecta.",
+    "service2": "Escanee un código QR para acceder al menú desde cualquier dispositivo.",
+    "service3": "Plantillas prediseñadas para optimizar el flujo de trabajo de tu restaurante.",
+    "qrCodeL1": "¡Mira cómo se verá el código QR en nuestro plan gratuito!",
+    "qrCodeL2": "¡Ver Resultado Aquí!",
+    "jelofyService1": "Creador de Menú QR Digital",
+    "jelofyService1Paragraph": "Crea y personaliza fácilmente tu menú QR escaneable — sin necesidad de programación ni desarrolladores.",
+    "jelofyService2": "Gestión de Pedidos y Pagos",
+    "jelofyService2Paragraph": "Acepta pagos y gestiona pedidos en un solo lugar — ¡próximamente en tu menú!",
+    "jelofyServiceBtn": "Quiero saber más",
+    "managerLogin": "Acceso para Gerentes",
+    "language": "Idioma",
+
+    "l4": "Menús digitales profesionales",
+    "l5": "no deberían costar una fortuna",
+    "l6": "¿Por qué pagar",
+    "l7": "por soluciones limitadas cuando",
+    "l8": "$9/mes",
+    "l9": "te da acceso a todo?",
+    "l10": "Crea, personaliza y gestiona impresionantes menús con código QR usando nuestra plataforma intuitiva — sin necesidad de conocimientos de programación o diseño. Lánzalo en minutos y actualízalo cuando quieras.",
+    "l11": "Comienza tu prueba gratuita",
+    "l12": "Sin tarjeta de crédito • Cancela cuando quieras",
+
+    "t1": "¡Gracias a nuestros primeros 7 usuarios!",
+    "t2": "Tu apoyo es fundamental para nosotros. Siempre mejoramos tu experiencia y corregimos errores para que tus clientes disfruten de un acceso más rápido y sencillo a tu menú.",
+    "t3": "Esto es solo el comienzo. Seguiremos actualizando esta plantilla y lanzando más para adaptarnos a tu marca y visión.",
+    "t4": "Explora la Nueva Plantilla",
+
+    "i1": "Diseño de Menú Personalizable",
+    "i2": "Libera tu creatividad con control total sobre la apariencia de tu menú. Nosotros proporcionamos la base - tú das vida a tu visión de marca única con opciones de estilo flexibles y controles de diseño.",
+    "i3": "Análisis de Rendimiento",
+    "i4": "Sigue el rendimiento de tu menú con análisis en tiempo real. Monitorea el engagement de los clientes, los artículos populares y las tendencias de ventas para tomar decisiones basadas en datos para tu negocio.",
+    "i5": "Gestión de Menú",
+    "i6": "Actualiza tu oferta sin esfuerzo con nuestro gestor de platos intuitivo. Añade especiales de temporada, modifica artículos existentes o elimina platillos con solo unos clics - sin necesidad de habilidades técnicas.",
+    "i7": "Acceso Colaborativo",
+    "i8": "Empodera a tu equipo con acceso controlado. Crea cuentas de manager con permisos personalizables, asegurando que tu menú se mantenga actualizado incluso cuando no estés presente.",
+    "i9": "Alcance Global",
+    "i10": "Expande tu base de clientes con soporte multilingüe. Traduce instantáneamente tu menú a múltiples idiomas, haciendo tu oferta accesible para clientes internacionales."
+  },
+  "TaxAlert": {
+    "text": "No somos como tus impuestos - aquí nada se desperdicia.",
+    "textParagraph": "Cada ingreso nos ayuda a mejorar la plataforma para ti. Mejores características, experiencia más fluida - ¡todo gracias a tu apoyo!"
+  },
+  "PricingPlans": {
+    "title": "Elige el plan adecuado para tu negocio",
+    "subtitle": "Precios simples y transparentes. Sin cargos ocultos.",
+    "monthlyPayment": "/mes",
+    "getStated": "Empezar",
+    "currentPlan": "Plan Actual",
+    "features": "Características",
+    "choosePlan": "Elegir Plan",
+    "starterPlan": {
+      "planName": "básico",
+      "description": "¡Comienza gratis! Administra un restaurante con funciones esenciales, incluyendo menú QR, personalización completa y diseño responsivo. Se mostrarán anuncios.",
+      "features": {
+        "qrCode": "Acceso al Menú mediante Código QR",
+        "restaurantLimit": "1 Restaurante",
+        "customization": "Personalización Limitada",
+        "mealsLimit": "Puedes agregar hasta 7 platos",
+        "ads": "Mostrar Anuncios a Clientes",
+        "responsive": "Totalmente Responsivo para Cualquier Dispositivo"
+      }
+    },
+    "businessPlan": {
+      "planName": "empresarial",
+      "description": "Suscripción mensual con acceso completo a todas las funciones esenciales, incluyendo experiencia sin anuncios, soporte multilingüe y personalización completa para un restaurante.",
+      "features": {
+        "qrCode": "Acceso al Menú mediante Código QR",
+        "restaurantLimit": "1 Restaurante",
+        "customization": "personalización ilimitada",
+        "mealsLimit": "puedes agregar platos ilimitados",
+        "teamAccessLimit": "Acceso para Equipo: Hasta 3 Empleados",
+        "liveView": "Visor en Vivo del Menú",
+        "ads": "Sin Anuncios",
+        "responsive": "Totalmente Responsivo para Cualquier Dispositivo",
+        "languageSupport": "Soporte Multilingüe para Menús de Restaurantes"
+      }
+    },
+    "pro": {
+      "planName": "profesional",
+      "description": "¡Diseñado para negocios en crecimiento! Administra hasta 3 restaurantes con soporte multilingüe, experiencia sin anuncios y personalización avanzada. Incluye Acceso para Equipo para permitir que los empleados ayuden a gestionar los menús.",
+      "features": {
+        "qrCode": "Acceso al Menú mediante Código QR",
+        "restaurantLimit": "3 Restaurantes",
+        "customization": "personalización ilimitada",
+        "mealsLimit": "puedes agregar platos ilimitados",
+        "teamAccessLimit": "Acceso para Equipo: Hasta 9 Empleados",
+        "liveView": "Visor en Vivo del Menú",
+        "ads": "Sin Anuncios",
+        "responsive": "Totalmente Responsivo para Cualquier Dispositivo",
+        "languageSupport": "Soporte Multilingüe para Menús de Restaurantes"
+      }
+    },
+    "ultimate": {
+      "planName": "ultimate",
+      "description": "¡Posibilidades ilimitadas! Sin límite de restaurantes, personalización completa, soporte multilingüe y experiencia sin anuncios. La mejor opción para grandes cadenas de restaurantes y franquicias.",
+      "features": {
+        "qrCode": "Acceso al Menú mediante Código QR",
+        "restaurantLimit": "Sin Límite de Restaurantes",
+        "customization": "Personalización Completa",
+        "mealsLimit": "puedes agregar platos ilimitados",
+        "teamAccessLimit": "Acceso para Equipo: Empleados Ilimitados",
+        "liveView": "Visor en Vivo del Menú",
+        "ads": "Sin Anuncios",
+        "responsive": "Totalmente Responsivo para Cualquier Dispositivo",
+        "languageSupport": "Soporte Multilingüe para Menús de Restaurantes"
+      }
+    }
+  },
+  "Q&A": {
+    "title": "Preguntas Frecuentes Sobre Nuestro Servicio",
+
+    "q1": "¿Qué es Jelofy y cómo puede ayudar a mi restaurante?",
+    "a1": "Jelofy es un creador de menús en línea gratuito que te ayuda a crear y administrar menús digitales para tu restaurante. Simplifica las operaciones con menús mediante códigos QR que los clientes pueden escanear con sus smartphones, eliminando la necesidad de menús físicos y facilitando las actualizaciones. Esto mejora la experiencia del cliente y reduce los costos de impresión.",
+
+    "q2": "¿Cómo puede un menú con código QR ayudar a crecer mi negocio?",
+    "a2": "Un menú con código QR reduce costos al eliminar la necesidad de reimprimir menús por cada cambio. Es una solución ecológica que ofrece una experiencia moderna y fluida para los clientes. Las actualizaciones en tiempo real te permiten ser flexible y brindar comodidad a los clientes que usan tecnología.",
+
+    "q3": "¿Cómo puedo contactar al soporte al cliente?",
+    "a3": "Puedes contactar a nuestro equipo de soporte completando el formulario de contacto en nuestro sitio web. Si eres usuario suscrito, también tendrás acceso a soporte por correo electrónico o WhatsApp. Normalmente respondemos en menos de 24 horas.",
+
+    "q4": "¿Mi menú se verá bien en dispositivos móviles?",
+    "a4": "Sí, todos los menús creados con Jelofy son totalmente responsivos y están optimizados para smartphones, tablets y computadoras, asegurando una experiencia limpia y fácil de usar en cualquier dispositivo.",
+
+    "q5": "¿Puedo probar la plataforma antes de pagar?",
+    "a5": "Por supuesto. Nuestro plan gratuito Starter te permite crear y administrar un restaurante con funciones básicas. Es una excelente forma de explorar la plataforma antes de pasar a un plan de pago.",
+
+    "q6": "¿Puedo personalizar el diseño de mi menú?",
+    "a6": "¡Sí! Puedes subir tu logo, elegir colores y fuentes, y organizar tus platillos por categorías. Jelofy facilita que el diseño de tu menú refleje la identidad de tu marca.",
+
+    "q7": "¿Puedo crear menús en varios idiomas?",
+    "a7": "Sí, Jelofy soporta menús multilingües. Puedes agregar manualmente las traducciones de tus productos para que tu menú sea accesible para más clientes.",
+
+    "q8": "¿Jelofy soporta múltiples ubicaciones de restaurantes?",
+    "a8": "Sí, nuestros planes Pro y Ultimate te permiten administrar varios restaurantes desde una sola cuenta. Cada ubicación puede tener su propio menú y diseño personalizado.",
+
+    "q9": "¿Cómo funciona el menú con código QR?",
+    "a9": "Cada restaurante recibe un código QR único que los clientes pueden escanear para ver el menú en sus dispositivos. Es una solución sin contacto, fácil de actualizar y perfecta para ambientes modernos.",
+
+    "q10": "¿Cuál es la diferencia entre los planes Starter, Business, Pro y Ultimate?",
+    "a10": "El plan Starter es gratuito y soporta un restaurante con funciones básicas. Business elimina anuncios y ofrece más personalización. Pro soporta hasta 5 restaurantes con herramientas avanzadas, y Ultimate incluye restaurantes ilimitados, personalización completa y soporte multilingüe, ideal para cadenas o franquicias.",
+
+    "q11": "¿Hay costos ocultos?",
+    "a11": "No. Nuestros precios son completamente transparentes. Lo que ves es lo que pagas, sin cargos adicionales.",
+
+    "q12": "¿Puedo ver cuántas personas están viendo mi menú?",
+    "a12": "Sí, los usuarios suscritos tienen acceso a análisis que muestran visitas en tiempo real y datos históricos. Esto te ayuda a entender el comportamiento de tus clientes y mejorar tus ofertas.",
+
+    "q13": "¿Cómo puedo obtener soporte si tengo un problema?",
+    "a13": "Si necesitas ayuda, completa nuestro formulario de contacto. Los usuarios suscritos también pueden comunicarse vía correo electrónico o WhatsApp. Respondemos a todas las solicitudes de soporte en un máximo de 24 horas.",
+
+    "q14": "¿Puedo traducir automáticamente mi menú?",
+    "a14": "Actualmente, las traducciones se agregan manualmente. Te ofrecemos herramientas para gestionar las traducciones fácilmente y estamos explorando opciones de traducción automática para el futuro.",
+
+    "q15": "¿Mi información y datos del restaurante están seguros?",
+    "a15": "Sí. Tomamos la seguridad de tus datos muy en serio y utilizamos medidas estándar de la industria para proteger tu información. Tus datos están encriptados y almacenados de forma segura, cumpliendo con las regulaciones de privacidad pertinentes."
+  },
+
+  "Contact": {
+    "title": "¿TIENES ALGUNAS PREGUNTAS?",
+    "content": "¿Tienes preguntas que aún no hemos respondido? Completa el formulario y ¡te responderemos en 24 horas!",
+    "submit": "Enviar Mensaje",
+    "contactTitle": "¿Necesitas una forma más rápida de contactarnos?",
+    "contactMessage": "¡Comunícate con uno de los miembros de nuestro equipo de soporte al cliente en jelofyteam@gmail.com y te responderemos lo antes posible!"
+  },
+  "ContactForm": {
+    "email": "Ingresa tu dirección de correo",
+    "name": "¿Cuál es tu nombre?",
+    "textArea": "Tu pregunta..."
+  },
+  "About": {
+    "title": "Quiénes Somos y Qué Hacemos",
+    "p1": "En Jelofy, nuestro objetivo es hacer que la gestión de restaurantes sea más simple, rápida y eficiente. En lugar de gastar cientos de dólares en desarrolladores y diseñadores, puedes crear y personalizar tu propio diseño de menú a un precio asequible, manteniendo el control total de tu marca. Entendemos que cada restaurante es único, por lo que ofrecemos herramientas flexibles y fáciles de usar que se adaptan a tus necesidades específicas. Además, estamos mejorando constantemente, añadiendo regularmente nuevas funciones para garantizar que tu negocio se mantenga a la vanguardia con la última tecnología, impulsando el crecimiento y la satisfacción del cliente.",
+    "btn": "¡Únete hoy y lleva el menú de tu restaurante al siguiente nivel!",
+    "aboutFormTitle": "¡Mantente Informado!",
+    "aboutFormContent": "¡Mantente Actualizado y Recibe Cupones Gratis!",
+    "aboutFormParagraph": "Suscríbete ahora para recibir las últimas noticias, actualizaciones e información exclusiva sobre eventos. Como agradecimiento, recibirás cupones gratis para próximos eventos, para que puedas ahorrar mientras te mantienes informado. No te pierdas ofertas emocionantes",
+    "aboutFormBtn": "¡Cuenta Conmigo!"
+  },
+  "AdminAuth": {
+    "loginView": "Iniciar Sesión",
+    "signUpView": "Registrarse",
+    "loginLink": "¿Ya tienes una cuenta?",
+    "signUpLink": "¿No tienes una cuenta?",
+    "loginBtn": "Continuar con Correo",
+    "signUpBtn": "Registrarse",
+    "googleLogin": "Continuar con Google",
+    "LoginGoogleMsg": "Inicia sesión con Google en su lugar",
+    "SignUpGoogleMsg": "Regístrate con Google en su lugar",
+    "email": "Correo electrónico",
+    "emailConfirm": "Confirmar Correo",
+    "LoginPassword": "Contraseña",
+    "signInPassword": "Elige una Contraseña",
+    "signInPasswordConfirm": "Confirmar Contraseña",
+
+    "googleLoginIOSWarning": "El inicio de sesión con Google no funciona en este navegador",
+    "googleLoginIOSInstructions1": "Para usar el inicio de sesión con Google:",
+    "googleLoginIOSInstructions2": "Por favor abre esta página en tu navegador habitual",
+    "openInBrowser": "Chrome o Safari o inicia sesión con correo electrónico",
+    "copy": "(Copiar)",
+    "copied": "(¡Copiado!)",
+    "googleLoginWarning": "El inicio de sesión con Google no funciona aquí. Por favor visita:",
+    "googleLoginWarningMsg": "en Chrome o Safari para iniciar sesión con Google.",
+    "notAvailable": "No disponible"
+  },
+  "ManagerAuth": {
+    "title": "Acceso para Gerentes",
+    "subtitle": "Accede al panel de control de tu restaurante",
+    "userName": "Nombre de usuario",
+    "userNamePlaceholder": "Ingresa tu nombre de usuario",
+    "password": "Contraseña",
+    "signin": "Iniciar Sesión",
+    "loadingSignIn": "Iniciando sesión...",
+    "forgotPassword": "¿Olvidaste tu Contraseña?",
+    "forgotParagraph": "Por favor contacta al administrador de tu restaurante para restablecer tus credenciales de acceso."
+  },
+  "DrawerBar": {
+    "home": "Panel de Control",
+    "templates": "Plantillas",
+    "restaurants": "Restaurantes",
+    "currency": "Moneda del Restaurante",
+    "teamAccess": "Gerentes",
+    "translations": "Traducciones",
+    "subscriptionPlans": "Planes de Suscripción",
+    "helpSupport": "Ayuda y Soporte",
+    "settings": "Configuración"
+  },
+  "Greeting": {
+    "greeting_1": "¡Hola {username}! ¿Listo para administrar tu menú?",
+    "greetingText": "Construyamos tu menú perfecto."
+  },
+  "DashBoard": {
+    "selectedRestaurant": "Seleccionar Restaurante",
+    "activeMeals": "Platos Activos",
+    "restaurantViews": "Vistas del Restaurante",
+    "realTimeViewers": "Visitantes en Tiempo Real",
+    "premiumFeature": "Función Premium",
+    "viewCountsLocked": "Desbloquea análisis de visitantes en tiempo real",
+    "upgradeNow": "Actualizar Ahora",
+    "status": "Estado",
+    "toggleStatus": "Alternar",
+    "mealManager": "Gestor de Platos",
+    "mealManagerBtn": "Gestor de Platos",
+    "editMenuAppearance": "Editar Apariencia del Menú",
+    "editMenuAppearanceBtn": "Personalizar Diseño del Menú"
+  },
+  "Templates": {
+    "useTemplate": "Usar Plantilla",
+    "liveView": "Ver Plantilla",
+    "title": "Plantillas Disponibles"
+  },
+  "Restaurants": {
+    "title": "Panel de Restaurantes",
+    "createRestaurant1": "Crea Tu Primer Restaurante",
+    "createRestaurant2": "Crear Nuevo Restaurante",
+    "businessUrl": "URL del Negocio:",
+    "selectedTemplate": "Plantilla Seleccionada:",
+    "status": "Estado:",
+    "qrCode": "Código QR:",
+    "downloadQrCode": "descargar código QR",
+    "viewQrCode": "Ver Menú",
+    "restaurantDetails": "Detalles del Restaurante",
+    "notFound": "¡No se encontraron restaurantes!"
+  },
+  "Managers": {
+    "title": "Gestión de Acceso para Equipo",
+    "titleParagraph": "Administra todas las cuentas y permisos de los gerentes",
+    "addManager": "Agregar Gerente",
+    "name": "Nombre",
+    "role": "Rol",
+    "desktopTitle": "Cuentas de Gerentes",
+    "desktopTitleParagraph": "Administra todas las cuentas de gerentes y sus niveles de acceso",
+    "edit": "Editar",
+    "remove": "Eliminar",
+    "addManagerModal": "Agregar Nuevo Gerente",
+    "fNameLabel": "Nombre",
+    "lNameLabel": "Apellido",
+    "userNameLabel": "nombre de usuario",
+    "passwordLabel": "Contraseña",
+    "formAddBtn": "Agregar Gerente",
+    "cancelBtn": "Cancelar",
+    "fNamePlaceHolder": "nombre del gerente",
+    "lNamePlaceHolder": "apellido del gerente",
+    "userNamePlaceHolder": "ej. ID del gerente (123456)",
+    "userNameTip": "Consejo: Se recomienda usar el número de identificación del gerente como nombre de usuario.",
+    "passwordPlaceHolder": "contraseña del gerente"
+  },
+  "Translations": {
+    "title": "Gestor de Traducciones",
+    "titleParagraph": "Administra traducciones para tus restaurantes y platos",
+    "selectRestaurant": "Seleccionar Restaurante",
+    "selectRestaurantOption": "Selecciona un restaurante para gestionar traducciones",
+    "selectMeal": "Seleccionar Plato (Opcional)",
+    "selectMealOption": "Selecciona un plato para gestionar traducciones",
+    "restaurantLanguages": "Idiomas del Restaurante",
+    "addLanguage": "+ Agregar Idioma",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "languageName": "Nombre del Idioma",
+    "languageIcon": "Archivo o imagen del icono del idioma",
+    "iconFileSize": "El archivo excede el límite de 100KB",
+    "chooseIconFile": "Elige un icono (PNG/SVG, máximo 100KB)...",
+    "textDirection": "Dirección del Texto",
+    "rtl": "Derecha a Izquierda (RTL)",
+    "ltr": "Izquierda a Derecha (LTR)",
+    "addLanguageButton": "Agregar Idioma al Restaurante",
+    "editMealTranslation": "Editar Traducción de Plato",
+    "addMealTranslation": "Agregar Traducción de Plato",
+    "mealName": "Nombre del Plato",
+    "default": "Predeterminado:",
+    "description": "Descripción",
+    "category": "Categoría",
+    "backToMeals": "Volver a Platos",
+    "saveTranslation": "Guardar Traducción",
+    "currentTranslations": "Traducciones Actuales",
+    "editing": "Editando",
+    "saved": "Guardado",
+    "name": "Nombre:",
+    "descriptionText": "Descripción:",
+    "categoryText": "Categoría:",
+    "notTranslationAdded": "Aún no se han agregado traducciones para este plato."
+  },
+  "HelpSupport": {
+    "title": "Ayuda y Soporte",
+    "subtitle": "Estamos aquí para ayudarte con cualquier pregunta o problema.",
+    "contactUs": "Contáctanos",
+    "faqs": "Preguntas Frecuentes",
+    "contactForm": "Formulario de Contacto",
+    "name": "Tu Nombre",
+    "email": "Correo Electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "sendBtn": "Enviar Mensaje",
+    "otherWays": "Otras Formas de Contactarnos",
+    "emailSupport": "Soporte por Correo",
+    "responseTime": "Normalmente responde dentro de 24 horas",
+    "questionTitle": "Preguntas Frecuentes"
+  },
+
+  "HelpSupportFAQs": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cómo cambio mi plan de suscripción?",
+    "a1": "Puedes actualizar o reducir tu plan en cualquier momento desde la página de Configuración de la Cuenta.",
+    "q2": "¿Dónde encuentro mi menú con código QR?",
+    "a2": "Tu menú con código QR está disponible en el Panel de Restaurantes. Puedes descargarlo o verlo en línea.",
+    "q3": "¿Cuántos miembros del equipo puedo agregar?",
+    "a3": "El número de miembros depende de tu plan: Gratis permite 0, Negocios permite 3, Pro permite 12 y Ultimate ofrece usuarios ilimitados.",
+    "q4": "¿Cómo personalizo el diseño de mi menú?",
+    "a4": "Ve al Panel, haz clic en 'Personalizar Diseño del Menú' y actualiza tu logo, texto, colores y más.",
+    "q5": "¿Dónde puedo cancelar mi suscripción?",
+    "a5": "Ve a Configuración > Configuración de la Cuenta > Cancelar Suscripción. Esto terminará tu plan actual de inmediato."
+  },
+
+  "Settings": {
+    "title": "Configuración",
+    "profileSettings": "Configuración de Perfil",
+    "accountSettings": "Configuración de Cuenta",
+    "privacySecurity": "Privacidad y Seguridad",
+    "updateProfile": "Actualizar Información de Perfil",
+    "updateProfileInfo": "Cambia tu nombre, correo y otros detalles",
+    "updateProfileBtn": "Actualizar Perfil",
+    "changeLanguage": "Cambiar Idioma",
+    "selectLanguage": "Selecciona tu idioma preferido",
+    "save": "Guardar",
+    "paymentMethods": "Métodos de Pago",
+    "paymentInfo": "Agrega o actualiza tu información de pago",
+    "managePaymentMethods": "Gestionar Pagos",
+    "cancelSubscription": "Cancelar Suscripción",
+    "cancelInfo": "Esto finalizará tu plan actual inmediatamente",
+    "changePass": "Cambiar Contraseña",
+    "changePassInfo": "Crea una nueva contraseña segura",
+    "deleteAccount": "Eliminar Cuenta",
+    "deleteAccountInfo": "Elimina tu cuenta y todos los datos"
+  },
+
+  "TermsService": {
+    "title": "Términos del Servicio",
+    "subTitle": "Fecha de entrada en vigor: 8 de junio de 2025",
+
+    "introduction": "1. Introducción",
+    "introductionText": "Jelofy proporciona una plataforma para que los propietarios de restaurantes creen, gestionen y compartan menús digitales con código QR. Al acceder o utilizar nuestros servicios, aceptas estar sujeto a estos términos.",
+
+    "subscriptionPayment": "2. Suscripción y Pagos",
+    "subscriptionPaymentText1": "Nuestra plataforma ofrece planes basados en suscripción. Al suscribirte, aceptas que se te facturará de forma recurrente según el plan seleccionado. Los pagos se procesan de forma segura a través de",
+    "subscriptionPaymentText2": "nuestro proveedor de pagos. Paddle puede manejar tu información de facturación y detalles de transacción de acuerdo con sus",
+    "subscriptionPaymentText3": "Puedes cancelar tu suscripción en cualquier momento. Las funciones y el acceso permanecerán activos hasta el final de tu período de facturación.",
+
+    "termsAndPolicies": "términos y políticas.",
+    "paddle": "Paddle,",
+
+    "refundPolicy": "3. Política de Reembolso",
+    "refundPolicyText1": "Ofrecemos un",
+    "refundPolicyText2": "para nuevos suscriptores si la plataforma no cumple con tus expectativas. Las solicitudes de reembolso deben procesarse a través de Paddle y pueden enviarse a ",
+    "refundPolicyText3": "No se emitirán reembolsos después de 7 días o por renovaciones de suscripción. Los tiempos de procesamiento de reembolsos de Paddle pueden aplicarse.",
+
+    "refundText": "reembolso de 7 días",
+
+    "privacyPolicy": "4. Política de Privacidad",
+    "privacyPolicyText1": "Estamos comprometidos a proteger tu privacidad. La información que proporciones, como tu correo electrónico, detalles del restaurante e información de pago, solo se utilizará para brindar nuestros servicios y mejorar la plataforma.",
+    "privacyPolicyText2": "Nunca vendemos tus datos. Tus datos pueden compartirse con terceros de confianza como nuestro proveedor de pagos (Paddle) estrictamente para facturación, prevención de fraude y cumplimiento normativo.",
+
+    "dataSecurity": "5. Datos y Seguridad",
+    "dataSecurityText": "Todos los datos del cliente se almacenan de forma segura. Eres responsable de mantener la seguridad de tu cuenta y contraseña. Paddle cumple con los estándares PCI-DSS para el procesamiento de pagos.",
+
+    "changesToTerms": "6. Cambios en los Términos",
+    "changesToTermsText": "Nos reservamos el derecho de modificar estos términos en cualquier momento. El uso continuado del servicio después de los cambios constituye la aceptación de los términos actualizados.",
+
+    "contactUs": "7. Contáctanos",
+    "contactUsText": "Si tienes preguntas sobre estos términos, privacidad o reembolsos, contáctanos en:"
+  },
+
+  "TemplateUiConfig": {
+    "title": "Configuración de Plantilla",
+    "file": "Seleccionar Archivo",
+    "noFile": "Ningún archivo seleccionado",
+    "active": "Activo",
+    "inactive": "Inactivo",
+
+    "general": {
+      "backgroundColor": "Color de Fondo de Página"
+    },
+
+    "header": {
+      "backgroundColor": "Color de Fondo del Encabezado",
+      "logoText": "Texto del Logo del Encabezado",
+      "logoImage": "Imagen del Logo del Encabezado"
+    },
+
+    "contact": {
+      "enableContact": "Habilitar Sección de Contacto",
+      "enableContactDescription": "Mostrar información de contacto en la sección del encabezado",
+      "callMessage": "Texto de Llamada a la Acción",
+      "phone": "Número de Teléfono de Contacto",
+      "iconColor": "Esquema de Color del Icono de Contacto"
+    },
+
+    "category": {
+      "enableCategory": "Habilitar Navegación por Categoría",
+      "enableCategoryDescription": "Mostrar menú de navegación por categorías de productos",
+      "selectedCategoryBackgroundColor": "Fondo de Categoría Activa",
+      "categoryBackgroundColor": "Fondo de Ítem de Categoría",
+      "selectedCategoryBorderColor": "Borde de Categoría Activa",
+      "categoryBorderColor": "Borde de Ítem de Categoría",
+      "selectedCategoryTextColor": "Texto de Categoría Activa",
+      "categoryTextColor": "Texto de Ítem de Categoría"
+    },
+
+    "mealContainer": {
+      "backgroundColor": "Fondo de Tarjeta de Producto",
+      "mealName": "Color del Nombre del Producto",
+      "mealDescription": "Color de la Descripción del Producto",
+      "mealSize": "Color del Texto de Tamaño de Porción",
+      "mealPrice": "Color de Visualización de Precio",
+      "mealContainerBorder": "Borde de Tarjeta de Producto"
+    }
+  },
+
+  "EditorPage": {
+    "description": "Edita tu diseño y ve los cambios en tiempo real. Recuerda guardar cuando termines.",
+    "save": "Guardar Cambios",
+    "saveSuccess": "¡Cambios guardados exitosamente!",
+    "live": "En Vivo",
+    "preview": "Vista Previa",
+    "meal": "Comida",
+    "manager": "Administrador",
+    "template": "Plantilla",
+    "store": "Tienda"
+  },
+
+  "RestaurantCurrency": {
+    "title": "Gestión de Monedas de Restaurantes",
+    "subtitle": "Selecciona un restaurante para actualizar su configuración de moneda",
+    "search": "Buscar monedas...",
+    "browseCurrency": "Explorar lista de monedas",
+    "customCurrency": "Ingresar moneda personalizada",
+    "applyCurrency": "Aplicar Moneda",
+    "notCurrencyFound": "No se encontraron monedas",
+    "tryAgain": "Prueba con otro término de búsqueda",
+    "noRestaurantFound": "No se encontraron restaurantes",
+    "getStarter": "Aún no tienes restaurantes. Crea uno para comenzar."
+  },
+
+  "Footer": {
+    "copyright": "©{year} Jelofy. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,1 @@
+export const notFoundCallBackImageIcon = "https://res.cloudinary.com/dvvm7u4dh/image/upload/v1746099580/404_pb4uo3.png"
