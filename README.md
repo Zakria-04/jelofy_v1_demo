@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Jelofy – Demo v1
 
-## Getting Started
+Welcome to **Jelofy**, a web application that allows restaurant owners to build and manage their own digital menus — without writing a single line of code.
 
-First, run the development server:
+This demo is the **first version** of the platform and showcases the core functionality and flexible design approach used to build it.
+
+---
+
+## 💡 Project Idea
+
+Jelofy gives **restaurant owners** full control over creating and customizing their digital menus — no need to hire a developer or waste money on overpriced, unfinished services.
+
+✅ Key features include:
+- Add, edit, or delete meals  
+- Use your own **currency**  
+- Customize your **menu URL**  
+- Generate a **unique QR code** for your digital menu  
+- Choose from multiple **menu templates**
+- No need for a developer — all features are self-managed
+
+---
+
+## 🔮 Future Features
+
+The system is designed with scalability in mind — it's easy to add new features and designs.
+
+For example:
+- When a new **menu template** is ready, all you need to do is plug it into the store.
+- Users will immediately be able to use the new template without needing major changes.
+
+Everything is built with **extensibility** and **modularity** in mind.
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+
+- **React**
+- **Next.js**
+- **TypeScript**
+- **Redux**
+- **Tailwind CSS**
+
+### Backend
+
+- **Node.js**
+- **Express.js**
+- **TypeScript**
+- **MongoDB**
+- **JWT** – Authentication & Authorization
+- **Google OAuth** – Google login
+
+### Other Tools
+
+- **Resend** – For sending automatic emails (new account, subscription, etc.)
+- **Paddle** – For handling subscription payments and billing
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repo and install the dependencies:
 
 ```bash
-npm run dev
+git clone https://github.com/your-username/jelofy_demo_frontend.git
+cd jelofy_demo_frontend
+
+# Then install packages
+yarn
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Start the development server
+```bash
+yarn run dev
+# or
+npm run dev
+```
