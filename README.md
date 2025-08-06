@@ -57,6 +57,7 @@ Everything is built with **extensibility** and **modularity** in mind.
 
 - **Resend** – For sending automatic emails (new account, subscription, etc.)
 - **Paddle** – For handling subscription payments and billing
+- **Cloudinary** – For managing and optimizing images, such as meal photos and menu assets
 
 ---
 
