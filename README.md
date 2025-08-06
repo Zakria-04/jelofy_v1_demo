@@ -1,4 +1,6 @@
-# 🚀 Jelofy – Demo v1
+[# 🚀 Jelofy – Demo v1
+
+🌐 Live Demo: [https://jelofy.com](https://jelofy.com)
 
 Welcome to **Jelofy**, a web application that allows restaurant owners to build and manage their own digital menus — without writing a single line of code.
 
@@ -63,8 +65,7 @@ Everything is built with **extensibility** and **modularity** in mind.
 Clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/jelofy_demo_frontend.git
-cd jelofy_demo_frontend
+git clone https://github.com/Zakria-04/jelofy_v1_demo.git
 
 # Then install packages
 yarn
@@ -78,3 +79,4 @@ yarn run dev
 # or
 npm run dev
 ```
+](https://github.com/Zakria-04/jelofy_v1_demo.git)
